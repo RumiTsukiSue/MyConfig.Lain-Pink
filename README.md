@@ -1,5 +1,7 @@
 # MyConfig.Lain-Pink
 使用AI设计的Lain-Pink主题，对壁纸取色的反复修改，并参考了dracula
+<img width="2560" height="1440" alt=" from 2026-03-25 01-12-50" src="https://github.com/user-attachments/assets/b73fd3c7-1911-44c1-9869-f703928b173f" />
+<img width="2560" height="1440" alt=" from 2026-03-25 01-15-29" src="https://github.com/user-attachments/assets/caefe838-0d8d-479c-8932-609405978ea1" />
 
 ## base16
 ```
